@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class rama2 {
+public class rama2 {
 }
+
